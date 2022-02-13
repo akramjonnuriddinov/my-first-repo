@@ -78,7 +78,7 @@ main {
 .features-icon {
     width: 100px;
     height: 100px;
-    background-color: rgba(255, 117, 0, 0.2);
+    /* background-color: rgba(255, 117, 0, 0.2); */
 }
 
 .features-icon img {
@@ -146,5 +146,4 @@ footer {
     line-height: 19px;
     font-weight: normal;
     line-height: 18.75px;
-    
 }
